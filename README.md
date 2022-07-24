@@ -3,6 +3,8 @@ Creating an algorithmic trading bot that learns and adapts to new data and evolv
 
 I used a SVM model as the baseline as it appeared to have accurate results when analyzing the data. 
 
+The predictions outperformed the market until towards the end of the data where it began to sharply perform worse. Adding future signals may correct this and produce even better results.
+
 ![actual_vs_strat_plot](https://user-images.githubusercontent.com/98198920/180585864-eef22af2-c768-4daf-a516-a30025f1089c.png)
 
 ![image](https://user-images.githubusercontent.com/98198920/180662091-7f33279d-68cb-4df6-9080-60fd862707a8.png)
