@@ -1,7 +1,7 @@
 # machine_learning_trading_bot
-Creating an algorithmic trading bot that learns and adapts to new data and evolving markets by utilizing Python programming and machine learning.
+An algorithmic trading bot that learns and adapts to new data and evolving markets by utilizing Python programming and machine learning.
 
-I used a SVM model as the baseline as it appeared to have accurate results when analyzing the data. 
+I used a SVM model as the baseline has accurate results when analyzing the data. 
 
 The predictions outperformed the market until towards the end of the data where it began to sharply perform worse. Adding future signals may correct this and produce even better results.
 
@@ -11,3 +11,6 @@ The predictions outperformed the market until towards the end of the data where 
 
 
 The data supports that the SVM slightly outperformed the LogisticRegression method. This is confirmed in the backtest prediction results with an accuracy score of 52.
+
+## Contributors
+Jeremy Pierce
